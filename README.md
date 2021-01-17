@@ -1,6 +1,6 @@
-# rive
+# Rive with flutter
 
-A new Flutter application.
+Create an animation using rive v1.
 
 ## Getting Started
 
